@@ -38,7 +38,7 @@
             "url": "heroku/python"
         },
         {
-            "url": "https://github.com/bhuriya12/text-leech-bot-Thor-"
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
         }
     ]
     }
